@@ -12,7 +12,7 @@ public class CalculadoraTeste {
 		
 		Calculadora calculadora = new Calculadora();
 		resultado = calculadora.soma(10.0, 5.0);
-		Assert.assertEquals(15.0, resultado, 0);
+		Assert.assertEquals(5.0, resultado, 0);
 	}
 	
 	@Test
