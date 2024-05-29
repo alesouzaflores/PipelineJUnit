@@ -39,7 +39,7 @@
                 <version>3.0.0-M5</version> <!-- Versão do plugin -->
                 <configuration>
                     <includes>
-                        <include>**/*Test.java</include>
+                        <include>**/*CalculadoraTeste.java</include>
                     </includes>
                 </configuration>
             </plugin>
